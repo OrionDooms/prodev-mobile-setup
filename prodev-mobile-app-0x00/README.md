@@ -2,7 +2,7 @@
 
 task 0: setup an Expo Application
 
-task 1: delete the existing file
+task 1: reset-project
 Do you want to move existing files to /app-example instead of deleting them? (Y/n): Y
 📁 /app-example directory created.
 ➡️ /app moved to /app-example/app.
