@@ -1,21 +1,21 @@
 # Expo Applications - Setup
 
-task 0: setup an Expo Application
+## Objective
+Provides step-by-step instructions to set up **Expo Go** on your physical device.
 
-task 1: delete the existing file
-Do you want to move existing files to /app-example instead of deleting them? (Y/n): Y
-📁 /app-example directory created.
-➡️ /app moved to /app-example/app.
-➡️ /components moved to /app-example/components.
-➡️ /hooks moved to /app-example/hooks.
-➡️ /constants moved to /app-example/constants.
-➡️ /scripts moved to /app-example/scripts.
+Before starting, ensure you already have the following installed:
+- **Node.js LTS** → [Download here](https://nodejs.org/en/)
+- **Visual Studio Code (VS Code)** → [Download here](https://code.visualstudio.com/)
+- **Operating System**: macOS, Linux, or Windows.
+- **Physical Mobile Device**: Android or iOS.
 
-📁 New /app directory created.
-📄 app/index.tsx created.
-📄 app/_layout.tsx created.
+---
 
-✅ Project reset complete. Next steps:
-1. Run `npx expo start` to start a development server.
-2. Edit app/index.tsx to edit the main screen.
-3. Delete the /app-example directory when you're done referencing it.
+## Step 1: Install Expo Go on Your Device
+1. Visit the official Expo Go homepage: [https://expo.dev/go](https://expo.dev/go)
+2. Select the **latest SDK version**.
+3. Choose your device and install Expo Go:
+  - **Android** → [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent)
+  - **iOS** → [Apple App Store](https://apps.apple.com/app/expo-go/id982107779)
+4. Open the **Expo Go** app after installation.
+5. Create a new Expo account or log in with an existing one.
