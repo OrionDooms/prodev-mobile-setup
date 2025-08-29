@@ -21,6 +21,10 @@ export default function index() {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "#90caf9",
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "center",
+    padding: 20,
   },
   largeText: {
     fontSize: 30,
